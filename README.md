@@ -71,9 +71,11 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-NAME;RASIKA.M
-212222230117
+```
+NAME:RASIKA.M
+reference number:212222230117
 ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+```
 
 ```
 #include "main.h"
@@ -107,17 +109,19 @@ HAL_Delay(500);
 
 ## Output screen shots of proteus  :
 OFF MODE:
+![off](https://github.com/rasika1206/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/124434806/0df9d57f-a860-437c-8702-00ae2bb4403a)
 
-![OffMode](https://github.com/rasika1206/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/124434806/aeb149ab-b711-475e-a605-b88b8baef145)
 
 ON MODE:
-![OnMode](https://github.com/rasika1206/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/124434806/464043ae-401a-4725-b5e7-2b42b5fc1b59)
+
+![on](https://github.com/rasika1206/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/124434806/4f8fb0b6-b0a7-403d-a8bb-d83ef398b56b)
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
+ ![cir](https://github.com/rasika1206/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/124434806/0e4d3417-5bc4-4c62-9ba9-17476659f4d1)
+
  
  
 ## Result :
